@@ -1,7 +1,26 @@
 
 # Dashboards
-
 Dashboards interativos desenvolvidos no Tableau Public com foco em análise exploratória, métricas de negócio e storytelling com dados.
+
+<a href="https://diegomagalhaesm.github.io/dashboards/" class="btn">
+  Acessar Dashboards
+</a>
+<style>
+.btn {
+  display: inline-block;
+  padding: 12px 24px;
+  background-color: #2563eb;
+  color: #ffffff;
+  text-decoration: none;
+  border-radius: 8px;
+  font-weight: 600;
+}
+
+.btn:hover {
+  background-color: #1e40af;
+}
+</style>
+
 
 ---
 
