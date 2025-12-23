@@ -1,7 +1,5 @@
 Dashboards interativos desenvolvidos no Tableau Public com foco em análise exploratória, métricas de negócio e storytelling com dados.
 
-[➡ Acessar Portfólio de Dashboards](https://diegomagalhaesm.github.io/dashboards/)
-
 
 ---
 
