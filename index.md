@@ -1,6 +1,3 @@
----
-title: Portfólio de Dashboards
----
 
 # Dashboards
 
