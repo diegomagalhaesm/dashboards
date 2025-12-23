@@ -1,10 +1,21 @@
 # Dashboards
 Dashboards interativos desenvolvidos no Tableau Public com foco em análise exploratória, métricas de negócio e storytelling com dados.
 
-<a href="/dashboards/instagram-masterchef/">
-  <strong>➡ Ver dashboards</strong>
+<a 
+  href="https://diegomagalhaesm.github.io/dashboards/" 
+  style="
+    display:inline-block;
+    padding:14px 26px;
+    background:#2563eb;
+    color:#ffffff;
+    text-decoration:none;
+    border-radius:8px;
+    font-weight:600;
+    margin:16px 0;
+  "
+>
+  Acessar Portfólio de Dashboards
 </a>
-
 
 ---
 
